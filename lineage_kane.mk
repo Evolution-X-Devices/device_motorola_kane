@@ -27,4 +27,4 @@ PRODUCT_GMS_CLIENTID_BASE := android-motorola
 PRODUCT_BUILD_PROP_OVERRIDES += \
     BuildDesc="kane-user 11 RSAS31.Q1-48-36-23 f57e3 release-keys" \
     BuildFingerprint=motorola/kane_retail/kane_sprout:11/RSAS31.Q1-48-36-23/f57e3:user/release-keys \
-    DeviceName=kane
+    DeviceProduct=kane_retail
